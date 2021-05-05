@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5W3TwNvj4c6_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Deloitte_Test_Balraj B</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Storyline Test for the role Instructional Designer</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Deloitte_Test_Balraj_B_ORG">
+    <organization identifier="Deloitte_Test_Balraj_B_ORG">
+      <title>Deloitte_Test_Balraj B</title>
+      <item identifier="K12_Project_SCO" isvisible="true" identifierref="__5W3TwNvj4c6_course_id_RES">
+        <title>Deloitte_Test_Balraj B</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5W3TwNvj4c6_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5rrde16mBZc_80_DX1800_DY1800_CX900_CY500.jpg" />
+      <file href="story_content/5xVyxowQIgf_44100_48_0.mp3" />
+      <file href="mobile/5sHwiNLLSoh_80_DX164_DY164_CX128_CY70.png" />
+      <file href="story_content/6I9rcTYvj8x_44100_48_0.mp3" />
+      <file href="mobile/6Fgvx4eQDD9_80_R9BF2FF_P_-4_136_962_443_DX2000_DY2000_CX963_CY443.png" />
+      <file href="mobile/5zl8Rx8Tncs_80_B30_DX200_DY200_CX157_CY157.png" />
+      <file href="mobile/5oa5vtZay0U_80_B30_DX200_DY200_CX157_CY157.png" />
+      <file href="mobile/6QdmVoffDIo_80_B30_DX200_DY200_CX157_CY157.png" />
+      <file href="story_content/6raCbRcSu5c_44100_48_0.mp3" />
+      <file href="mobile/6EfEhDaPozi_80_DX1926_DY1926_CX1135_CY851.png" />
+      <file href="story_content/64vke3oIzCU_44100_48_0.mp3" />
+      <file href="story_content/6qZNNOfS7vw_44100_48_0.mp3" />
+      <file href="mobile/6SSO1WuqjGQ_80_DX600_DY600_CX471_CY471.jpg" />
+      <file href="mobile/6PeKmrDIK2U_80_DX1394_DY1394_CX350_CY1094.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_68GNPiGCCj1.png" />
+      <file href="mobile/txt__default_5dxHL8JYmRe.png" />
+      <file href="mobile/txt__default_6CvPggZGIsa.png" />
+      <file href="mobile/txt__default_6C4OfTARClh.png" />
+      <file href="mobile/txt__default_5ov9FkrcBlc.png" />
+      <file href="mobile/txt__default_5b8E0l0VLh1.png" />
+      <file href="mobile/txt__default_5xAn95SIrz1.png" />
+      <file href="mobile/txt__default_5duvjAgyoUp.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5enayMffrkS.js" />
+      <file href="html5/data/js/5exnaeFkY6z.js" />
+      <file href="html5/data/js/5fTj3pd4Igc.js" />
+      <file href="html5/data/js/5hz9yW3JTUU.js" />
+      <file href="html5/data/js/5mwIRN6hZMc.js" />
+      <file href="html5/data/js/5nLakZPKfRk.js" />
+      <file href="html5/data/js/5tQnrmRbKfk.js" />
+      <file href="html5/data/js/5ydViWEbeA8.js" />
+      <file href="html5/data/js/60DbdoG3W8c.js" />
+      <file href="html5/data/js/64knunoXKf2.js" />
+      <file href="html5/data/js/65N1yWlU6SY.js" />
+      <file href="html5/data/js/67chj5vaZTl.js" />
+      <file href="html5/data/js/6HNNsQyrO3P.js" />
+      <file href="html5/data/js/6JA7xCICf9P.js" />
+      <file href="html5/data/js/6MJQwF6dKcm.js" />
+      <file href="html5/data/js/6okBEoBh7Ys.js" />
+      <file href="html5/data/js/6PU5gADWYTR.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
